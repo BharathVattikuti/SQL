@@ -1,2 +1,2 @@
 # SQL
-SQL Projects
+Jupiter Notebook files for SQL Projects
